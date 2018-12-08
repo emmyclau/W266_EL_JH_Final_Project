@@ -2,12 +2,12 @@
 # w266_EL_JH_final_project
 
 
-###Predicting Sentiment Rating by using Hotel Reviews###
+### Predicting Sentiment Rating by using Hotel Reviews###
 
-###Ching Lau and Joanna Huang###
+### Ching Lau and Joanna Huang###
 
  
-##Abstract##
+## Abstract##
 
 The purpose of this paper is to use user review data to predict sentiment rating and understand how different models are making the prediction.
 We first extract narrative features based on our real world understanding from user reviews for the baseline regression models. Next we build a variations of bag-of-words and CNN models. We use integrated gradients to understand the most important words that each model uses for its prediction and then analyze the sensitivity of these models to different words present in the user reviews.

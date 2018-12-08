@@ -17,4 +17,4 @@ We find that when a model ignores important information in making its prediction
 
 #### This Repository
 
-This repository contains all neural network related source codes under bow_and_cnn folder
+This repository contains all neural network related source codes under https://github.com/emmyclau/W266_EL_JH_Final_Project/tree/master/bow_and_cnn

@@ -2,7 +2,7 @@
 # w266_EL_JH_final_project
 
 
-## Predicting Sentiment Rating by using Hotel Reviews ##
+## Deeper Understanding: Predicting Review Rating with Text ##
 - Ching Lau and Joanna Huang
 
  

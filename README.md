@@ -23,5 +23,5 @@ This repository contains
 
 2) neural network related source codes under https://github.com/emmyclau/W266_EL_JH_Final_Project/tree/master/bow_and_cnn
 
-**Note**
+**Note:**
 Source data will be available upon requested

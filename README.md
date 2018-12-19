@@ -15,6 +15,9 @@ We first extract narrative features based on our real world understanding from u
 We find that when a model ignores important information in making its prediction, its model performance is more susceptible to changes in input features.  Therefore, high accuracy is an indicator of a good model only if the model is picking up the right words for the prediction.
 
 
+For details, please refer to this paper: https://github.com/emmyclau/W266_EL_JH_Final_Project/blob/master/w266_EL_JH_Paper_Final_v2.pdf
+
+
 #### This Repository
 
 This repository contains 
